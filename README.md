@@ -1,4 +1,5 @@
-# Google-capstone-case_study
+Introduction and links to the project outputs
+
 Data Analytics Case Study
 
 In 2016, Cyclistic launched a successful bike-share offering. Since then, the program has grown to a fleet of 5,824 bicycles that are geotracked and locked into a network of 692 stations across Chicago. The bikes can be unlocked from one station and returned to any other station in the system anytime. Customers who purchase single-ride or full-day passes are referred to as casual riders. Customers who purchase annual memberships are Cyclistic members. Cyclistic’s finance analysts have concluded that annual members are much more profitable than casual riders. 
@@ -11,3 +12,12 @@ Link to the Kaggle R Notebook: https://www.kaggle.com/code/girmau/google-data-an
 
 
 Link to final presentation: https://docs.google.com/presentation/d/e/2PACX-1vSt2r2KW2xalVdchBD38UTgDNWtBJJPSLtDwDThHrjtkuVf9joBx-7LOegAMl4l8Z-rAbNpg70x55_D/pub?start=false&loop=false&delayms=3000&slide=id.p
+
+The following files contains list by the data analytics steps:
+
+1. Ask
+2. Prepare
+3. Process
+4. Analyze
+5. Share
+6. Act
