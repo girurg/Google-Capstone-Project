@@ -12,12 +12,3 @@ Link to the Kaggle R Notebook: https://www.kaggle.com/code/girmau/google-data-an
 
 
 Link to final presentation: https://docs.google.com/presentation/d/e/2PACX-1vSt2r2KW2xalVdchBD38UTgDNWtBJJPSLtDwDThHrjtkuVf9joBx-7LOegAMl4l8Z-rAbNpg70x55_D/pub?start=false&loop=false&delayms=3000&slide=id.p
-
-The following files contains list by the data analytics steps:
-
-1. Ask
-2. Prepare
-3. Process
-4. Analyze
-5. Share
-6. Act
